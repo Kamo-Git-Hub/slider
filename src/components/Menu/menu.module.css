@@ -1,0 +1,32 @@
+li{
+    list-style: none;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: wheat;
+    width: 100px;
+    text-align: center;
+    border-radius: 8px;
+   border-bottom: 2px solid black;
+   margin: 5px;
+   font-weight: bold;
+  }
+
+  a{
+    text-decoration: none;
+    color:rgb(82, 80, 80);
+  }
+
+  .menuList{
+      display: flex;
+      justify-content: space-around;
+      border-bottom: 1px solid rgb(116, 114, 114);
+      padding-top: 5px;
+  }
+
+  li:hover{
+      background-color: rgb(141, 110, 110);
+  }
+
+  .activ{
+   color: brown;
+  }

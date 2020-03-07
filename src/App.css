@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(155, 152, 152);
+}
+
+
+
+.slider{
+  width: 850px;
+  height: 750px;
+border-radius: 5px;
+ position: relative; top: 5px;
+ background-color: rgb(252, 250, 248);
+  margin: 0 auto;
+}
